@@ -7,7 +7,7 @@
   <br>
 </p>
 
-# Flagpool Feature Flsg Platform
+# Flagpool Feature Flag Platform
 
 ## Ship product changes with confidence
 
