@@ -1,8 +1,13 @@
-# Flagpool
-
-<p align="center">
-  <img src="https://www.flagpool.io/logo.svg" alt="Flagpool" width="220">
+<p>
+  <br>
+  <a href="https://www.flagpool.io/en">
+    <img src="https://www.flagpool.io/assets/flagpool.svg" alt="Feature Flags by Flagpool" width="120">
+  </a>
+  <br>
+  <br>
 </p>
+
+# Flagpool Feature Flsg Platform
 
 ## Ship product changes with confidence
 
